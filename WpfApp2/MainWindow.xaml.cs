@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp1
+namespace WpfApp2
 {
     /// <summary>
-    /// Interaction logic for Bokning.xaml
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class Bokning : Window
+    public partial class MainWindow : Window
     {
-        public Bokning()
+        public MainWindow()
         {
             InitializeComponent();
         }

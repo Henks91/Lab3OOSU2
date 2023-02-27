@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,14 +10,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WpfApp1
+namespace PresentationsLager.WPF
 {
     /// <summary>
-    /// Interaction logic for HuvudMeny.xaml
+    /// Interaction logic for HämtaUtBokning.xaml
     /// </summary>
-    public partial class HuvudMeny : Window
+    public partial class HämtaUtBokning : Window
     {
-        public HuvudMeny()
+        public HämtaUtBokning()
         {
             InitializeComponent();
         }
