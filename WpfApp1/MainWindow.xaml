@@ -6,12 +6,12 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="300" Width="400">
-    <Grid>
+    <Grid Background="#FFA6C39D">
         <TextBlock HorizontalAlignment="Center" Margin="0,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="sv-se" Text="Anställningsnr:"/></TextBlock>
         <TextBlock HorizontalAlignment="Center" Margin="0,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="sv-se" Text="Lösenord:"/></TextBlock>
-        <TextBox HorizontalAlignment="Center" Margin="0,98,0,0" TextWrapping="Wrap" Text="TextBoxAnstNr" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,158,0,0" TextWrapping="Wrap" Text="TextBoxLösen" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxAnstNr" HorizontalAlignment="Center" Margin="0,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button Content="Sign in" HorizontalAlignment="Center" Margin="0,192,0,0" VerticalAlignment="Top" BorderBrush="#FF020000" Foreground="Black" Height="25" Width="68"/>
         <Button Content="Avsluta" HorizontalAlignment="Center" Margin="0,222,0,0" VerticalAlignment="Top" Height="25" Width="68" BorderBrush="Black"/>
+        <PasswordBox x:Name="TextBoxLösen" HorizontalAlignment="Left" Margin="137,157,0,0" VerticalAlignment="Top" Width="120"/>
     </Grid>
 </Window>
