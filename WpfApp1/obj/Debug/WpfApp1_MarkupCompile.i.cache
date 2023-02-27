@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\WpfApp1\obj\Debug\
+C:\Users\user\source\repos\labb3\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\WpfApp1\App.xaml
-1219584333
+C:\Users\user\source\repos\labb3\WpfApp1\App.xaml
+51239664870
 
-6-793535042
+10585537165
 13-38814620
-MainWindow.xaml;
+Bokning.xaml;HuvudMeny.xaml;HämtaUtBokning.xaml;MainWindow.xaml;Återlämning.xaml;
 
 True
 
