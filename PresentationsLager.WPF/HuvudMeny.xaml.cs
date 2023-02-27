@@ -27,5 +27,29 @@ namespace PresentationsLager.WPF
             kontroller = new Kontroller();
         }
 
+        private void BtnBokaBok_Click(object sender, RoutedEventArgs e)
+        {
+            HuvudMeny huvudMeny = new HuvudMeny(exp);
+            SkapaBokning bokning = new SkapaBokning(exp);
+            bokning.Show();
+            huvudMeny.Close(); // fixxxa så fönstret bakom försvinner
+        }
+
+        private void BtnHämtaBokning_Click(object sender, RoutedEventArgs e)
+        {
+            HämtaUtBokning hämtaUtBokning = new HämtaUtBokning();
+            hämtaUtBokning.Show();
+        }
+
+        private void BtnÅterlämning_Click(object sender, RoutedEventArgs e)
+        {
+            Återlämning återlämning = new Återlämning();
+            återlämning.Show();
+        }
+
+        private void BtnLoggaUt_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }

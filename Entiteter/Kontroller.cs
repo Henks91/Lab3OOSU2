@@ -35,7 +35,7 @@ namespace BusinessLayer
         public void LaddaData()
         {
             BokningDbContext DbContext = new BokningDbContext();
-            DbContext.Reset();
+            //DbContext.Reset();
             DbContext.Database.EnsureCreated();
         }
         #endregion
