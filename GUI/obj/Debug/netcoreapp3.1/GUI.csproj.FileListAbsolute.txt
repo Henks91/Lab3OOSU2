@@ -1,0 +1,112 @@
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.Login.resources
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.Meny.resources
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\fredr\Source\Repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.HämtaUtBokning.resources
+C:\Users\fredr\Source\Repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.Återlämning.resources
+C:\Users\fredr\Source\Repos\fredriklinh\Labb2OOSU2\GUI\obj\Debug\netcoreapp3.1\GUI.BokningView.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.BokningView.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.HämtaUtBokning.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.Login.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.Meny.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.Återlämning.resources
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
