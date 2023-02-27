@@ -40,6 +40,46 @@ namespace WpfApp1 {
     /// </summary>
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 15 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Documents.Run Anställningsnr;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 17 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox TextBoxAnstNr;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 18 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnSignIn;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 19 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button BtnAvsluta;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 20 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.PasswordBox TextBoxLösen;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +108,24 @@ namespace WpfApp1 {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.Anställningsnr = ((System.Windows.Documents.Run)(target));
+            return;
+            case 2:
+            this.TextBoxAnstNr = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 3:
+            this.BtnSignIn = ((System.Windows.Controls.Button)(target));
+            return;
+            case 4:
+            this.BtnAvsluta = ((System.Windows.Controls.Button)(target));
+            return;
+            case 5:
+            this.TextBoxLösen = ((System.Windows.Controls.PasswordBox)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }
