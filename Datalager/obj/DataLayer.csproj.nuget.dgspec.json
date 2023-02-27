@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj",
+        "projectName": "BusinessEntites",
+        "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

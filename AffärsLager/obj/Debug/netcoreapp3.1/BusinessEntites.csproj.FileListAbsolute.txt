@@ -1,0 +1,20 @@
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.deps.json
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.AssemblyReference.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfo.cs
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\fredr\source\repos\fredriklinh\Labb2OOSU2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.deps.json
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfo.cs
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.pdb
