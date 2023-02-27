@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OX0uWqIYAknTayNvrDNxKACdf0eJqLI90CJ08ULoArIwm1dclNFiXOraykGnV6vsl0CbASRveThlJkvIoQzJOg==",
+  "dgSpecHash": "FhPehmw3Ot7IiNbr/fca4ovO/PSDy1dWqrh3ZxuRodTgzZ27D4t0fG4+5vOJHUq/erLugtfLRPBfhBWF7CgXPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

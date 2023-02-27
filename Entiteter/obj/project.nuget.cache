@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DgbpnekXJ9+BlmyUiXMqs37SHY6XcuYUMjDsyb/aeR2OQjORP5NH1GoiDOgTn7gGUvmZsCaihc1InykN9EXvrQ==",
+  "dgSpecHash": "3UocBZrYfBDQP9U8c0LkuMfXuxuKGgh8PSR3FJliyIg034GJ6oXEzsI71uXTUEzqsqBUdnfcBarcIbdIpRIesg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Entiteter\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\labb3\\Entiteter\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

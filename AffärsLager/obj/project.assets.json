@@ -5116,11 +5116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj",
       "projectName": "BusinessEntites",
-      "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

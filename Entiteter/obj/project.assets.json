@@ -7263,11 +7263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Entiteter\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\labb3\\Entiteter\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Entiteter\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\Entiteter\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Entiteter\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\labb3\\Entiteter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7284,11 +7284,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj"
+            "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj"
             },
-            "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj"
+            "C:\\Users\\user\\source\\repos\\labb3\\Datalager\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\Datalager\\DataLayer.csproj"
             }
           }
         }

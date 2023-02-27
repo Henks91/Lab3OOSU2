@@ -7243,11 +7243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\labb3\\Datalager\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\Datalager\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\Datalager\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\labb3\\Datalager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7264,8 +7264,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\AffärsLager\\BusinessEntites.csproj"
+            "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\labb3\\AffärsLager\\BusinessEntites.csproj"
             }
           }
         }

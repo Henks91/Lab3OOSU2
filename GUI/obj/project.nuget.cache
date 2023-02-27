@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "haEqfdQtS1ItzXY/cptkDf/F5hINtdqxnfnLUkS3wqssSBMoKMKgY+DMFdms5e+BCAaSJXibIwL7OGLo9a8W3Q==",
+  "dgSpecHash": "ycnPUI1kSvOIK4s1PtfyYksS+Q2EB6uSjwvExHwDhuK4P+yV5TBUzOMRkp3xNF3ZlaCK1VsFh5BebI7eb23ubw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive - University of Borås\\Skrivbordet\\Studier\\Eget\\OOP 2\\Laboration 3\\GUI\\GUI.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\labb3\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

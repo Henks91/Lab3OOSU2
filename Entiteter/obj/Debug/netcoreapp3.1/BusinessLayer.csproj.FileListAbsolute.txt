@@ -28,3 +28,18 @@ C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Lab
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.dll
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\source\repos\labb3\Entiteter\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\user\source\repos\labb3\Entiteter\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

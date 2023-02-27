@@ -18,3 +18,13 @@ C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Lab
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.dll
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\source\repos\labb3\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.deps.json
+C:\Users\user\source\repos\labb3\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\source\repos\labb3\AffärsLager\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.AssemblyInfo.cs
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\user\source\repos\labb3\AffärsLager\obj\Debug\netcoreapp3.1\BusinessEntites.pdb
