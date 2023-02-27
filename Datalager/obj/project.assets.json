@@ -7018,11 +7018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
+      "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7043,8 +7043,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-              "projectPath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+            "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+              "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
             }
           }
         }

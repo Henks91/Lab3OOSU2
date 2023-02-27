@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dni+3Zur9l/2IFBBKCQRGQXZF1VckDr+rqjw7EOwJag4QJ/vPeBtlsz6+6Vv8vozYbwnll/qnO1YnLpOcfIXnw==",
+  "dgSpecHash": "SrX4OYcaun/6SdxstAd6pqiSEmC75L2BNnyMqwQByKs+rfjk73jEjCF4/B32F5By5Wt7jYCJfV8Yh0l4VQdBjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carl Wånsander\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Carl Wånsander\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
