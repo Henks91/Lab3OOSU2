@@ -1,0 +1,9 @@
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.csproj.AssemblyReference.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\Bokning.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HuvudMeny.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HämtaUtBokning.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\Återlämning.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF_MarkupCompile.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF_MarkupCompile.lref

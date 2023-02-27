@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Bokning.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HuvudMeny.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HämtaUtBokning.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Återlämning.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Bokning.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HuvudMeny.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HämtaUtBokning.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Återlämning.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

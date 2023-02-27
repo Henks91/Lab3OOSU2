@@ -24,3 +24,16 @@ C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Lab
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.dll
 C:\Users\user\OneDrive - University of Borås\Skrivbordet\Studier\Eget\OOP 2\Laboration 2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\Datalager\obj\Debug\netcoreapp3.1\DataLayer.pdb
