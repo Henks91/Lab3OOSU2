@@ -68,6 +68,14 @@ namespace BusinessLayer
                 return unit.Bok.Find(z => z.ÄrTillgänglig == true).ToList();
             }
         }
+
+        public IList<Bok> HämtaAllaBöcker()
+        {
+            using (UnitOfWork unit = new UnitOfWork())
+            {
+                return unit.Bok.GetAll().Where(z=> z.ÄrTillgänglig == true).ToList();
+            }
+        }
         #endregion
         #region SkapaBokning
         /// <SkapaBokning-kommentar>
@@ -80,7 +88,7 @@ namespace BusinessLayer
         /// <param name="startlån"></param>
         /// <param name="bokadeBöcker"></param>
         /// <returns></returns>
-        public List<Bokning> SkapaBokning(Medlem medlem, Expidit exp, DateTime startlån, List<Bok> bokadeBöcker)
+        public Bokning SkapaBokning(Medlem medlem, Expidit exp, DateTime startlån, IList<Bok> bokadeBöcker)
         {
 
             using (UnitOfWork unit = new UnitOfWork())
@@ -108,7 +116,7 @@ namespace BusinessLayer
                 bokningList.Add(bokning);
                 unit.Bokning.Update(bokning);
                 unit.Complete();
-                return bokningList;
+                return bokning;
             }
         }
         #endregion
@@ -211,6 +219,16 @@ namespace BusinessLayer
                 }
             }
         }
+
+        public Expidit HämtaExpidit(int expNr)
+        {
+            using (UnitOfWork unit = new UnitOfWork())
+            {
+                Expidit expidit = unit.Expidit.FirstOrDefault(e => e.AnstId == expNr);
+
+                return expidit;
+            }
+        }
         #endregion
         #region HämtaBokning
         /// <HämtaBokning-kommentar>
@@ -219,14 +237,27 @@ namespace BusinessLayer
         /// </HämtaBokning-kommentar>
         /// <param name="EttNr"></param>
         /// <returns></returns>
-        public Bokning HämtaBokning(int EttNr)
+        //public IList<Bokning> HämtaBokning(int EttNr)
+        //{
+        //    using (UnitOfWork unit = new UnitOfWork())
+        //    {
+        //        List<Bokning> bokning = new List<Bokning>();
+                
+        //        Bokning b = unit.Bokning.FirstOrDefault(b => b.BokningId == EttNr 
+        //        || b.Medlem.MedlemsId == EttNr);
+
+        //        bokning.Add(b);
+
+
+        //        return bokning;
+        //    }
+        //}     **Orginalet**
+
+        public Bokning HämtaBokning(int bId)
         {
             using (UnitOfWork unit = new UnitOfWork())
             {
-                Bokning bokning2 = unit.Bokning.FirstOrDefault(b => b.BokningId == EttNr 
-                || b.Medlem.MedlemsId == EttNr);
-
-                return bokning2;
+                return unit.Bokning.FirstOrDefault(z => z.BokningId == bId);
             }
         }
         #endregion
@@ -238,12 +269,27 @@ namespace BusinessLayer
         /// </HämtaBokningensBöcker-kommentar>
         /// <param name="bNr"></param>
         /// <returns></returns>
-        public List<Bok> HämtaBokningensBöcker(int bNr)
+        //public List<Bok> HämtaBokningensBöcker(int bNr)
+        //{
+        //    List<Bok> bikbok = new List<Bok>();
+        //    using (UnitOfWork unit = new UnitOfWork())
+        //    {
+        //        Bokning bokning2 = unit.Bokning.FirstOrDefault(b => b.BokningId == bNr || b.Medlem.MedlemsId == bNr);
+
+        //        foreach (Bok b in bokning2.BokadeBöcker)
+        //        {
+        //            bikbok.Add(b);
+        //        }
+        //        return bikbok;
+        //    }
+        //}       **Orginalet**
+
+        public IList<Bok> HämtaBokningensBöcker(int EttNr)
         {
             List<Bok> bikbok = new List<Bok>();
             using (UnitOfWork unit = new UnitOfWork())
             {
-                Bokning bokning2 = unit.Bokning.FirstOrDefault(b => b.BokningId == bNr || b.Medlem.MedlemsId == bNr);
+                Bokning bokning2 = unit.Bokning.FirstOrDefault(b => b.BokningId == EttNr || b.Medlem.MedlemsId == EttNr);
 
                 foreach (Bok b in bokning2.BokadeBöcker)
                 {
