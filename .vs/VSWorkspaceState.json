@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Entiteter",
+    "\\PresentationsLager.WPF",
+    "\\WpfApp1"
   ],
-  "SelectedNode": "\\Labb3.sln",
+  "SelectedNode": "\\Entiteter\\Kontroller.cs",
   "PreviewInSolutionExplorer": false
 }

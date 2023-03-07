@@ -85,7 +85,7 @@ namespace PresentationsLager.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;component/huvudmeny.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;V1.0.0.0;component/huvudmeny.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\HuvudMeny.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
