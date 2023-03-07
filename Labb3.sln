@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "Entiteter\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI", "GUI\GUI.csproj", "{18A267FD-334D-4DF6-A09B-50D5764C93A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationsLager.WPF", "PresentationsLager.WPF\PresentationsLager.WPF.csproj", "{CB4953EF-B86E-40F8-9C1B-D68C1A28B23B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentationsLager.WPF", "PresentationsLager.WPF\PresentationsLager.WPF.csproj", "{CB4953EF-B86E-40F8-9C1B-D68C1A28B23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationsLager.WPF.MVVM", "PresentationsLager.WPF.MVVM\PresentationsLager.WPF.MVVM.csproj", "{5B3974B7-D32C-4266-9817-CB5438F1E703}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CB4953EF-B86E-40F8-9C1B-D68C1A28B23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB4953EF-B86E-40F8-9C1B-D68C1A28B23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB4953EF-B86E-40F8-9C1B-D68C1A28B23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3974B7-D32C-4266-9817-CB5438F1E703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3974B7-D32C-4266-9817-CB5438F1E703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3974B7-D32C-4266-9817-CB5438F1E703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3974B7-D32C-4266-9817-CB5438F1E703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
