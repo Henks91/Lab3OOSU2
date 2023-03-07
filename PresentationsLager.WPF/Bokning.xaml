@@ -39,7 +39,7 @@
                 </Style>
             </DataGrid.Resources>-->
         </DataGrid>
-        <DataGrid x:Name="dgTillgängligaBöcker" Grid.Column="1" HorizontalAlignment="Left" Height="225" Margin="10,25,0,0" VerticalAlignment="Top" Width="245" SelectionChanged="dgTillgängligaBöcker_SelectionChanged">
+        <DataGrid x:Name="dgTillgängligaBöcker" Grid.Column="1" HorizontalAlignment="Left" Height="225" Margin="10,25,0,0" VerticalAlignment="Top" Width="245" SelectionChanged="dgTillgängligaBöcker_SelectionChanged" SelectionMode="Single">
             <!--<DataGrid.Resources>
                 <Style TargetType="{x:Type DataGridCell}">
                     <EventSetter Event="MouseDoubleClick" Handler="DataGridCell_MouseDoubleClick"/>

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj": {}
+    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
         "projectName": "BusinessEntites",
-        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
-        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
+        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,25 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
+    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
+        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,8 +89,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
               }
             }
           }
@@ -123,7 +116,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,25 +126,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
+    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\obj\\",
+        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,11 +154,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
               },
-              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj"
+              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj"
               }
             }
           }
@@ -194,7 +184,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -203,25 +194,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj": {
+    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
         "projectName": "PresentationsLager.WPF",
-        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
-        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\obj\\",
+        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,11 +222,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
               },
-              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj"
+              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj"
               }
             }
           }
@@ -259,7 +246,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -271,7 +259,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

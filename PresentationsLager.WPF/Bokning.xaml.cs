@@ -20,9 +20,10 @@ namespace PresentationsLager.WPF
     public partial class Bokning : Window
     {
         private Kontroller kontroller;
+        Expidit exp { get; set; }
         private IList<Bok> boks = new List<Bok>();
 
-        public Bokning()
+        public Bokning(exp)
         {
             InitializeComponent();
             kontroller = new Kontroller();

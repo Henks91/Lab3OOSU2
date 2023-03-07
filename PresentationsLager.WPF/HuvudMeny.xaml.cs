@@ -27,5 +27,9 @@ namespace PresentationsLager.WPF
             kontroller = new Kontroller();
         }
 
+        private void BtnBokaBok_Click(object sender, RoutedEventArgs e)
+        {
+            Bokning bokningen = new Bokning(exp)
+        }
     }
 }

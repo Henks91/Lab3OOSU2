@@ -35,7 +35,7 @@ namespace BusinessLayer
         public void LaddaData()
         {
             BokningDbContext DbContext = new BokningDbContext();
-            DbContext.Reset();
+            //DbContext.Reset();
             DbContext.Database.EnsureCreated();
         }
         #endregion
@@ -240,6 +240,18 @@ namespace BusinessLayer
                     bikbok.Add(b);
                 }
                 return bikbok;
+            }
+        }
+
+        public IList<Bokning> BokBokBok()
+        {
+            using (UnitOfWork unit = new UnitOfWork())
+            {
+                return unit.Bokning.Query(q => q.Include(m => m.BokningId)
+                                             .Include(m => m.Medlem)
+                                             .Include(m => m.Expidit)
+                                             .Include(m => m.BokadeBöcker)
+                                             .ThenInclude(d => d.Titel)).ToList();
             }
         }
         #endregion
