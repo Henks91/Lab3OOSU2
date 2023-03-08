@@ -53,7 +53,7 @@ namespace PresentationsLager.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;component/h%c3%a4mtautbokning.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;V1.0.0.0;component/h%c3%a4mtautbokning.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\HämtaUtBokning.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
