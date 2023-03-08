@@ -135,7 +135,7 @@ namespace PresentationsLager.WPF.MVVM.ViewModels
                 medlemSelectedItem = value; OnPropertyChanged();
                 if (medlemSelectedItem != null)
                 {
-                    ValdaBöcker = new ObservableCollection<Bok>(medlemSelectedItem.)
+                    ValdaBöcker = new ObservableCollection<Bok>();
 
                     IList<Bok> allaBöcker = kontroller.HämtaTillgängligaBöcker();
 
