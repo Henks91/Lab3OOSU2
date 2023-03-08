@@ -5111,19 +5111,45 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\DANIEL\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Carl Wånsander\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> origin/Calle
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj",
+>>>>>>> 359cda8ba2e08cdb42164965728e07a3ec6ffe50
       "projectName": "BusinessEntites",
       "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
       "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+<<<<<<< HEAD
       "outputPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
+=======
+      "outputPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+      "projectName": "BusinessEntites",
+      "projectPath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+      "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carl Wånsander\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
+>>>>>>> origin/Calle
+>>>>>>> 359cda8ba2e08cdb42164965728e07a3ec6ffe50
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> origin/Calle
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

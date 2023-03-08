@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PresentationsLager.WPF.MVVM"
         xmlns:vm="clr-namespace:PresentationsLager.WPF.MVVM.ViewModels"
         mc:Ignorable="d"
-        Title="Bokning av böcker" Height="600" Width="800"
+        Title="Bokning av böcker" Height="800" Width="1000"
         MinHeight="500" MinWidth="800" WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <vm:MainViewModel />
@@ -28,7 +28,7 @@
             </StatusBarItem>
         </StatusBar>
         <!-- DockPanel Left -->
-        <StackPanel DockPanel.Dock="Top" Orientation="Vertical" Background="DarkSeaGreen" Margin="10,10,10,10">
+        <StackPanel DockPanel.Dock="Left" Orientation="Vertical" Width="333" Background="DarkSeaGreen" Margin="10,10,10,10">
             <Border BorderThickness="2" BorderBrush="Black">
                 <TextBlock Text="Skapa Bokning" TextAlignment="Center" FontFamily="Arial"
                            FontSize="14" FontWeight="Bold" Foreground="Blue"
@@ -43,12 +43,12 @@
                           SelectedIndex="{Binding MedlemSelectedIndex, Mode=TwoWay}"
                       IsEnabled="{Binding IsNotModified}"/>
             <StackPanel>
-                <TextBlock Text="Välj bokningens startdatum:" FontWeight="Bold" Margin="5"/>
-                <DatePicker Text="StartDatum"/>
-               
+                <TextBlock Text="Välj bokningens startdatum:" FontWeight="Bold" Margin="5" Width="170"/>
+                <DatePicker x:Name="StartTimeText" SelectedDate="{Binding StartLån}" 
+                            BorderThickness="0" Background="Fuchsia" Width="170"/>
             </StackPanel>
             <!-- Böcker Datagrid -->
-            <DataGrid x:Name="dgIngredients" Height="100" ItemsSource="{Binding TillgängligaBöcker}"
+            <DataGrid x:Name="dgTillgängligaBöcker" Height="150" Width="170" ItemsSource="{Binding TillgängligaBöcker}"
                       AutoGenerateColumns="False" SelectionMode="Single"
                       SelectionUnit="FullRow" IsReadOnly="True"
                       SelectedItem="{Binding TillgängligaBöckerSelectedItem, Mode=TwoWay}"
@@ -59,15 +59,18 @@
                 </DataGrid.Columns>
             </DataGrid>
             <!--Knappar för bokning av böcker-->
-            <StackPanel>
-                <TextBlock Text="Välja böcker att lägga till alt ta bort:" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" />
-                <Button x:Name="btnRemove" Content="Remove" FontSize="14" Width="100" Margin="10,10,10,5" Command="{Binding RemoveCommand}" />
-                <Button x:Name="btnAdd" Content="Add" FontSize="14" Width="100" Margin="10,5,10,5" Command="{Binding AddCommand}" />
-           
-            </StackPanel>
+            <DockPanel>
+                <StackPanel>
+                    <TextBlock Text="Välja böcker att lägga till alt ta bort:" Height="20" FontSize="14" FontWeight="Bold"/>
+                    <Button x:Name="btnAdd" Content="Add"  FontSize="14" Width="100" Margin="10,5,10,5" Command="{Binding AddCommand}" Height="27" />
+                    <Button x:Name="btnRemove" Content="Remove" FontSize="14" Width="100" Margin="10,5,10,5" Command="{Binding RemoveCommand}" />
+                </StackPanel>
+
+
+            </DockPanel>
 
             <!-- Available Ingredients Datagrid -->
-            <DataGrid x:Name="dgAvailableIngredients" Height="100" ItemsSource="{Binding ValdaBöcker}"
+            <DataGrid x:Name="dgValdaBöcker" Height="150" Width="170" ItemsSource="{Binding ValdaBöcker}"
                       AutoGenerateColumns="False" SelectionMode="Single"
                       SelectionUnit="FullRow" IsReadOnly="True"
                       SelectedItem="{Binding ValdaBöckerSelectedItem, Mode=TwoWay}"
@@ -78,11 +81,55 @@
                 </DataGrid.Columns>
             </DataGrid>
             <StackPanel>
-                <Button x:Name="btnSave" Content="Save" FontSize="14" Width="100" Margin="10,15,10,5" Command="{Binding SaveCommand}" />
+                <Button x:Name="btnSave" Content="Boka Böcker" FontSize="14" Width="100" Margin="10,15,10,5" Command="{Binding SaveCommand}" />
             </StackPanel>
         </StackPanel>
         <!-- DockPanel Right Återlämning-->
+        <StackPanel DockPanel.Dock="Right" Width="333" Orientation="Vertical" Background="Orange" Margin="10,10,10,10">
+            <Border BorderThickness="2" BorderBrush="Black">
+                <TextBlock Text="Lämna Tillbaka bokning" TextAlignment="Center" FontFamily="Arial"
+                           FontSize="14" FontWeight="Bold" Foreground="Blue"
+                           Background="LightCyan" Margin="10,10,10,10"
+                           Padding="10,10,10,10"/>
+            </Border>
+        </StackPanel>
         <!-- DockPanel LastChildFill HämtaBokning-->
+        <StackPanel Orientation="Vertical" Background="Aqua" Margin="10,10,10,10">
+            <Border BorderThickness="2" BorderBrush="Black">
+                <TextBlock Text="Lämna Tillbaka bokning" TextAlignment="Center" FontFamily="Arial"
+                           FontSize="14" FontWeight="Bold" Foreground="Blue"
+                           Background="LightCyan" Margin="10,10,10,10"
+                           Padding="10,10,10,10"/>
+            </Border>
+            <TextBlock Text="Ange BokningId eller MedlemsId: " FontWeight="Bold" Margin="5"/>
+            <TextBox x:Name="bIdmId" Width="150" Height="20" HorizontalAlignment="Center" Text="{Binding BokningNr, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" /> 
+
+            <StackPanel DataContext="{Binding ElementName=bIdmId}"/>
+            <TextBlock Text="Id" FontWeight="Bold" Margin="5" />
+            <TextBox Text="{Binding Path=ValdBokning.BokningId}" Margin="5" IsReadOnly="True" />
+
+            <TextBlock Text="Medlem" FontWeight="Bold" Margin="5" />
+            <TextBox Text="{Binding ValdBokning.Medlem.Namn}" IsReadOnly="True" />
+
+            <TextBlock Text="Utlämnad" FontWeight="Bold" Margin="5" />
+            <DatePicker Text="{Binding Path=ValdBokning.FaktisktStartLån}" />
+
+            <TextBlock Text="Created By" FontWeight="Bold" Margin="5" />
+            <TextBox Text="{Binding Path=ValdBokning.Expidit.Namn, Mode=TwoWay}" Margin="5" IsReadOnly="True" />
+
+            <TextBlock Text="Veryfied By" FontWeight="Bold" Margin="5" />
+            <TextBox Text="{Binding Path=ValdBokning.Expidit.Namn, Mode=TwoWay}" Margin="5" IsReadOnly="True" />
+
+            <Separator/>
+            <DataGrid Height="150" Width="170" ItemsSource="{Binding Path=BokningensBöcker}"
+                      AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding Path=ISBN}" />
+                    <DataGridTextColumn Header="Titel" Binding="{Binding Path=Titel}" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </StackPanel>
     </DockPanel>
 
 

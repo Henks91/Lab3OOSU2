@@ -1,7 +1,21 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
+<<<<<<< HEAD
     "\\AffärsLager\\Classes"
+=======
+<<<<<<< HEAD
+    "\\WpfApp2"
+=======
+    "\\Entiteter",
+    "\\PresentationsLager.WPF",
+    "\\WpfApp1"
+>>>>>>> origin/Calle
+=======
+    ""
+>>>>>>> origin/Calle
+>>>>>>> 359cda8ba2e08cdb42164965728e07a3ec6ffe50
   ],
   "SelectedNode": "\\Labb3.sln",
   "PreviewInSolutionExplorer": false
