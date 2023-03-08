@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\fredr\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Release\netcoreapp3.1\
+C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Release\netcoreapp3.1\
 PresentationsLager.WPF
 none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\fredr\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\App.xaml
-5-956750204
+C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\App.xaml
+51327549275
 
-7948426280
-194902457748
-Bokning.xaml;HuvudMeny.xaml;HämtaUtBokning.xaml;MainWindow.xaml;Återlämning.xaml;
+7-1378744530
+215472521817
+HuvudMeny.xaml;HämtaUtBokning.xaml;MainWindow.xaml;SkapaBokning.xaml;Återlämning.xaml;
 
 True
 
