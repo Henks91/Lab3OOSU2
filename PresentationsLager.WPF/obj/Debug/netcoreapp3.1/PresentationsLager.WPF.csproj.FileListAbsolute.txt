@@ -1,5 +1,4 @@
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.csproj.AssemblyReference.cache
-C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\Bokning.g.cs
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HuvudMeny.g.cs
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HämtaUtBokning.g.cs
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
@@ -7,6 +6,7 @@ C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\o
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF_MarkupCompile.cache
 C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF_MarkupCompile.lref
+<<<<<<< HEAD
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.exe
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.deps.json
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.runtimeconfig.json
@@ -71,3 +71,61 @@ C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.dll
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.pdb
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.genruntimeconfig.cache
+=======
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.exe
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.deps.json
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.runtimeconfig.json
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.runtimeconfig.dev.json
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\PresentationsLager.WPF.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\BusinessEntites.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\BusinessEntites.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HuvudMeny.baml
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\HämtaUtBokning.baml
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\Återlämning.baml
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.g.resources
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.AssemblyInfoInputs.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.AssemblyInfo.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.csproj.CopyComplete
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.dll
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.pdb
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\PresentationsLager.WPF.genruntimeconfig.cache
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\SkapaBokning.g.cs
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\obj\Debug\netcoreapp3.1\SkapaBokning.baml
+>>>>>>> origin/Calle

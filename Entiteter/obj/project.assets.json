@@ -7263,11 +7263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Entiteter\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Entiteter\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\obj\\",
+      "outputPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Entiteter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7284,11 +7284,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-              "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+            "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj": {
+              "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj"
             },
-            "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
-              "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj"
+            "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\DataLayer.csproj"
             }
           }
         }
@@ -7327,5 +7327,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Entiteter\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

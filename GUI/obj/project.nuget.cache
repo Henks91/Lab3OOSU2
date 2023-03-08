@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+BAjUYFBS+91NHj6t5HTvSfxlpLV4omdKsyHB6gm8I5nk2uut4lqoSYYdSmlewkovJhYHaFVSdWnQQJXzZHcw==",
+  "dgSpecHash": "zkL1LtYMEIj43ih6pHXZTi6EhyhnJdFoK3bZbh42bPtgb42ZJ7SGoh7WeOzcS0rKUOmsLcCX/p3mXcCGQvDHJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\GUI\\GUI.csproj",
+  "projectFilePath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
@@ -131,5 +131,12 @@
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\GUI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

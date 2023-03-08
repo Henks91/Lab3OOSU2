@@ -1,8 +1,14 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\DANIEL\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\DANIEL\\.nuget\\packages"
+=======
+      "C:\\Users\\Carl Wånsander\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Carl Wånsander\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+>>>>>>> origin/Calle
     ]
   }
 }

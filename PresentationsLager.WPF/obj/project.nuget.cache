@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "up+c2O6Rv08njZbUShSX+ULFp++BkG9XstwnPrHml9gMCBw8saK+y14xEUpG4rd7/qayfI1nfQst1LNSvr32aQ==",
+  "dgSpecHash": "96Kxef6DnqwOOcjn930+oNtKA/zHqjEf7OoIX/EG12/fVqJxqLc5dd1EOEYo09rLg+drn6jpEaAZhIr2YNoG2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
+  "projectFilePath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
@@ -131,5 +131,12 @@
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\PresentationsLager.WPF\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

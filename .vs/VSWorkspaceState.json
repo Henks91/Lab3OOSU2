@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\WpfApp2"
+=======
+    "\\Entiteter",
+    "\\PresentationsLager.WPF",
+    "\\WpfApp1"
+>>>>>>> origin/Calle
   ],
-  "SelectedNode": "\\Labb3.sln",
+  "SelectedNode": "\\Entiteter\\Kontroller.cs",
   "PreviewInSolutionExplorer": false
 }
