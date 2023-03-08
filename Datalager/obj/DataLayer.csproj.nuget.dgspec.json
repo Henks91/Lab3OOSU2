@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\DataLayer.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\obj\\",
+=======
+    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "projectName": "BusinessEntites",
+        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
+>>>>>>> origin/Calle
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> origin/Calle
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,6 +84,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -73,9 +93,24 @@
         "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\Datalager\\obj\\",
+=======
+    "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Carl Wånsander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
+>>>>>>> origin/Calle
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Carl Wånsander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> origin/Calle
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +124,13 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj": {
                 "projectPath": "C:\\Users\\DANIEL\\Downloads\\Labb3Osu2\\Lab3Osu2\\AffärsLager\\BusinessEntites.csproj"
+=======
+              "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\Carl Wånsander\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+>>>>>>> origin/Calle
               }
             }
           }

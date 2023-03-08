@@ -15,14 +15,14 @@ namespace DataLayer.Context
         {
             optionsBuilder
                 .UseLazyLoadingProxies()
-                .UseSqlServer(@"Server=(localdb)\Local;Database=Grupp24Ny;Integrated Security=True;MultipleActiveResultSets=true;");
+                .UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Grupp24MVVM;Integrated Security=True;MultipleActiveResultSets=true;");
             base.OnConfiguring(optionsBuilder);
             
         }
         public void Reset()
         {
             #region Remove Tables
-            using (SqlConnection conn = new SqlConnection(@"Server=(localdb)\Local;Database=Grupp24Ny;Integrated Security=True;MultipleActiveResultSets=true;"))
+            using (SqlConnection conn = new SqlConnection(@"Server=(localdb)\mssqllocaldb;Database=Grupp24MVVM;Integrated Security=True;MultipleActiveResultSets=true;"))
             using (SqlCommand cmd = new SqlCommand("EXEC sp_msforeachtable 'ALTER TABLE ? NOCHECK CONSTRAINT all'; EXEC sp_msforeachtable 'DROP TABLE ?'", conn))
             {
                 conn.Open();
