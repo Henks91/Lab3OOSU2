@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WpfApp2"
+    "\\AffärsLager",
+    "\\AffärsLager\\Classes",
+    "\\GUI"
   ],
-  "SelectedNode": "\\Labb3.sln",
+  "SelectedNode": "\\GUI\\BokningView.cs",
   "PreviewInSolutionExplorer": false
 }
