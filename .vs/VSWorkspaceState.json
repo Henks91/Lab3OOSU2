@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AffärsLager",
-    "\\AffärsLager\\Classes",
-    "\\GUI"
+    "\\AffärsLager\\Classes"
   ],
-  "SelectedNode": "\\GUI\\BokningView.cs",
+  "SelectedNode": "\\Labb3.sln",
   "PreviewInSolutionExplorer": false
 }

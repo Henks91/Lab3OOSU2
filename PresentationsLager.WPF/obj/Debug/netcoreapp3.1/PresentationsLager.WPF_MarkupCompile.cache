@@ -9,12 +9,21 @@ PresentationsLager.WPF
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+<<<<<<< HEAD
 C:\Users\DANIEL\Source\Repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\App.xaml
 5-956750204
 
 7948426280
 2151165895948
 Bokning.xaml;HuvudMeny.xaml;HämtaUtBokning.xaml;MainWindow.xaml;Återlämning.xaml;
+=======
+C:\Users\Carl Wånsander\source\repos\Henks91\Lab3OOSU2\PresentationsLager.WPF\App.xaml
+51327549275
 
-True
+7-1378744530
+215448279754
+HuvudMeny.xaml;HämtaUtBokning.xaml;MainWindow.xaml;SkapaBokning.xaml;Återlämning.xaml;
+>>>>>>> origin/Calle
+
+False
 

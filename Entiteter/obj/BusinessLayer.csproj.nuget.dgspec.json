@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {}
+    "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+    "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
         "projectName": "BusinessEntites",
-        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
+    "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+              "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
+    "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Entiteter\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Entiteter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,11 +154,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
-                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
+              "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj"
               },
-              "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj"
+              "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\Datalager\\DataLayer.csproj"
               }
             }
           }

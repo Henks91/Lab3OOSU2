@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyT6Crc/0T5xMHMeD6LVWoDH4errdp4jB4XLnXv/Fw16DQpPBBR/ELJ2YWliTnjJUAa7PIaWvpOpxPkenqlvpw==",
+  "dgSpecHash": "suZ53nTrOB8clMkDKRiOB1wskMaIGUnGigKA3/KaU7kfN+ORMtj67pKnVo8ctoP33wXDT+6av6VAUnedACEVIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
+  "projectFilePath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\AffärsLager\\BusinessEntites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

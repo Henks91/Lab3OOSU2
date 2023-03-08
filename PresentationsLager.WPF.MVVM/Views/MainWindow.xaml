@@ -1,0 +1,89 @@
+﻿<Window x:Class="PresentationsLager.WPF.MVVM.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationsLager.WPF.MVVM"
+        xmlns:vm="clr-namespace:PresentationsLager.WPF.MVVM.ViewModels"
+        mc:Ignorable="d"
+        Title="Bokning av böcker" Height="600" Width="800"
+        MinHeight="500" MinWidth="800" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+    
+    <DockPanel LastChildFill="True">
+        <!-- DockPanel Top -->
+        <Menu DockPanel.Dock="Top" Background="LightBlue" Margin="10,10,10,10">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Refresh" Command="{Binding RefreshCommand}"/>
+                <Separator/>
+                <MenuItem Header="E_xit" Command="{Binding ExitCommand}" />
+            </MenuItem>
+        </Menu>
+        <!-- DockPanel Bottom -->
+        <StatusBar DockPanel.Dock="Bottom" Background="Beige" Margin="10,10,10,10">
+            <StatusBarItem HorizontalAlignment="Center">
+                <TextBlock Text="{Binding Status}" />
+            </StatusBarItem>
+        </StatusBar>
+        <!-- DockPanel Left -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Vertical" Background="DarkSeaGreen" Margin="10,10,10,10">
+            <Border BorderThickness="2" BorderBrush="Black">
+                <TextBlock Text="Skapa Bokning" TextAlignment="Center" FontFamily="Arial"
+                           FontSize="14" FontWeight="Bold" Foreground="Blue"
+                           Background="LightCyan" Margin="10,10,10,10"
+                           Padding="10,10,10,10"/>
+            </Border>
+            
+                <TextBlock Text="Välj medlem: " FontWeight="Bold" Margin="5"/>
+            <ComboBox x:Name="VäljMedlem" Width="150" Margin="5,10,5,10" ItemsSource="{Binding Medlem}"
+                          DisplayMemberPath="MedlemsId" SelectedValuePath="MedlemsId"
+                          SelectedItem="{Binding MedlemSelectedItem, Mode=TwoWay}"
+                          SelectedIndex="{Binding MedlemSelectedIndex, Mode=TwoWay}"
+                      IsEnabled="{Binding IsNotModified}"/>
+            <StackPanel>
+                <TextBlock Text="Välj bokningens startdatum:" FontWeight="Bold" Margin="5"/>
+                <DatePicker Text="StartDatum"/>
+               
+            </StackPanel>
+            <!-- Böcker Datagrid -->
+            <DataGrid x:Name="dgIngredients" Height="100" ItemsSource="{Binding TillgängligaBöcker}"
+                      AutoGenerateColumns="False" SelectionMode="Single"
+                      SelectionUnit="FullRow" IsReadOnly="True"
+                      SelectedItem="{Binding TillgängligaBöckerSelectedItem, Mode=TwoWay}"
+                      SelectedIndex="{Binding TillgängligaBöckerSelectedIndex, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding ISBN}" />
+                    <DataGridTextColumn Header="Titel" Binding="{Binding Titel}" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <!--Knappar för bokning av böcker-->
+            <StackPanel>
+                <TextBlock Text="Välja böcker att lägga till alt ta bort:" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" />
+                <Button x:Name="btnRemove" Content="Remove" FontSize="14" Width="100" Margin="10,10,10,5" Command="{Binding RemoveCommand}" />
+                <Button x:Name="btnAdd" Content="Add" FontSize="14" Width="100" Margin="10,5,10,5" Command="{Binding AddCommand}" />
+           
+            </StackPanel>
+
+            <!-- Available Ingredients Datagrid -->
+            <DataGrid x:Name="dgAvailableIngredients" Height="100" ItemsSource="{Binding ValdaBöcker}"
+                      AutoGenerateColumns="False" SelectionMode="Single"
+                      SelectionUnit="FullRow" IsReadOnly="True"
+                      SelectedItem="{Binding ValdaBöckerSelectedItem, Mode=TwoWay}"
+                      SelectedIndex="{Binding ValdaBöckerSelectedIndex, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding ISBN}" />
+                    <DataGridTextColumn Header="Titel" Binding="{Binding Titel}" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel>
+                <Button x:Name="btnSave" Content="Save" FontSize="14" Width="100" Margin="10,15,10,5" Command="{Binding SaveCommand}" />
+            </StackPanel>
+        </StackPanel>
+        <!-- DockPanel Right Återlämning-->
+        <!-- DockPanel LastChildFill HämtaBokning-->
+    </DockPanel>
+
+
+</Window>

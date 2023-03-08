@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "up+c2O6Rv08njZbUShSX+ULFp++BkG9XstwnPrHml9gMCBw8saK+y14xEUpG4rd7/qayfI1nfQst1LNSvr32aQ==",
+  "dgSpecHash": "IXREUnGu4g7//HENIgEDknjQPoW3ISbMcrspnRyYl6Ct1XM1PrQfeLNNNrHsbBUnn6AAKrFNDxnuDzD3GAN2kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\Source\\Repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
+  "projectFilePath": "C:\\Users\\DANIEL\\source\\repos\\Henks91\\Lab3OOSU2\\PresentationsLager.WPF\\PresentationsLager.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

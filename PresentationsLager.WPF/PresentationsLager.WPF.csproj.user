@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Bokning.xaml.cs">
+    <Compile Update="SkapaBokning.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="HuvudMeny.xaml.cs">
@@ -21,7 +21,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Bokning.xaml">
+    <Page Update="SkapaBokning.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="HuvudMeny.xaml">

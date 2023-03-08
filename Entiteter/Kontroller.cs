@@ -61,7 +61,7 @@ namespace BusinessLayer
         /// Här hämtas tillgängliga böcker för bokning som matchas på property "ÄrTillgänglig == true" och returneras i en IList<> till GUI.
         /// </HämtaTillgängligaBöcker-kommentar>
         /// <returns></returns>
-        public List<Bok> HämtaTillgängligaBöcker()
+        public IList<Bok> HämtaTillgängligaBöcker()
         {
             using (UnitOfWork unit = new UnitOfWork())
             {
@@ -138,15 +138,25 @@ namespace BusinessLayer
         /// </HittaMedlem-Kommentar>
         /// <param name="medlemId"></param>
         /// <returns></returns>
-        public Medlem Hittamedlem(int medlemId)
+        
+        //public Medlem Hittamedlem(int medlemId)
+        //{
+        //    using (UnitOfWork unit = new UnitOfWork())
+        //    {
+        //        Medlem medlem = unit.Medlem.FirstOrDefault(e => e.MedlemsId == medlemId);
+
+        //        return medlem;
+        //    }
+        //}                  **Orginalet**
+     
+        public IList<Medlem> Hittamedlem()
         {
             using (UnitOfWork unit = new UnitOfWork())
             {
-                Medlem medlem = unit.Medlem.FirstOrDefault(e => e.MedlemsId == medlemId);
-
-                return medlem;
+                return unit.Medlem.GetAll().ToList();
             }
         }
+       
         #endregion
         #region SkapaFaktura
         /// <SkapaFaktura-kommentar>

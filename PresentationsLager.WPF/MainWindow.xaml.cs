@@ -24,6 +24,7 @@ namespace PresentationsLager.WPF
     {
         Kontroller kontroller;
         Expidit exp { get; set; }
+        private bool IsNotModified = true;
         public MainWindow()
         {
             InitializeComponent();
@@ -31,6 +32,7 @@ namespace PresentationsLager.WPF
             kontroller.LaddaData();
         }
 
+       
         private void BtnSignIn_Click(object sender, RoutedEventArgs e)
         {
             int id = int.Parse(TextBoxAnstNr.Text);

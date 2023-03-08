@@ -53,7 +53,7 @@ namespace PresentationsLager.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;component/%c3%85terl%c3%a4mning.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PresentationsLager.WPF;V1.0.0.0;component/%c3%85terl%c3%a4mning.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Återlämning.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

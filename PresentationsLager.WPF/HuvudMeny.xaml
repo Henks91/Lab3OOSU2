@@ -23,10 +23,17 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
+<<<<<<< HEAD
         <Button x:Name="BtnBokaBok" Height="60" Width="300" Grid.Column="0" Grid.Row="0" FontSize="25" Content="Boka Böcker" Background="#FF51FF00" Margin="50,79,50,78" Click="BtnBokaBok_Click"/>
         <Button x:Name="BtnHämtaBokning" Height="60" Width="300" Grid.Column="1" Grid.Row="0" FontSize="25" Content="Hämta ut Bokning" Background="#FF51FF00" Grid.ColumnSpan="2" Margin="50,79,50,78"/>
         <Button x:Name="BtnÅterlämning" Height="60" Width="300" Grid.Column="0" Grid.Row="1" FontSize="25" Content="Lämna tillbaka böcker" Background="#FF51FF00" Margin="50,79,50,78"/>
         <Button x:Name="BtnLoggaUt" Height="60" Width="300" Grid.Column="1" Grid.Row="1" FontSize="25" Content="Logga Ut" Background="#FF51FF00" Grid.ColumnSpan="2" Margin="50,79,50,78"/>
+=======
+        <Button x:Name="BtnBokaBok" Height="60" Width="300" Grid.Column="0" Grid.Row="0" FontSize="25" Content="Boka Böcker" Background="#FF51FF00" Click="BtnBokaBok_Click"/>
+        <Button x:Name="BtnHämtaBokning" Height="60" Width="300" Grid.Column="1" Grid.Row="0" FontSize="25" Content="Hämta ut Bokning" Background="#FF51FF00" Click="BtnHämtaBokning_Click"/>
+        <Button x:Name="BtnÅterlämning" Height="60" Width="300" Grid.Column="0" Grid.Row="1" FontSize="25" Content="Lämna tillbaka böcker" Background="#FF51FF00" Click="BtnÅterlämning_Click"/>
+        <Button x:Name="BtnLoggaUt" Height="60" Width="300" Grid.Column="1" Grid.Row="1" FontSize="25" Content="Logga Ut" Background="#FF51FF00" Click="BtnLoggaUt_Click"/>
+>>>>>>> origin/Calle
 
     </Grid>
 </Window>
